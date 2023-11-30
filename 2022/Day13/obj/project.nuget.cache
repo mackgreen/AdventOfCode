@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "62x0bQFC7v2YW5oHxhmu0U78ocXQhTRLIQo6D+spC3nrjgBOHxM4Xk2aT/EGHMD+ycgycZdfRQT/hHIMn3Sdcw==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\AdventOfCode\\2022\\Day13\\Day13.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\greenris\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
