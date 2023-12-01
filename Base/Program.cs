@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AOC2022 {
+namespace AdventOfCode {
     /// <summary>
     /// Base class for SEGCC Puzzles Solutions
     /// <remarks>

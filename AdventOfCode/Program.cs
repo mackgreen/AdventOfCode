@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Reflection;
 
-namespace AOC2022 {
+namespace AdventOfCode {
 
     public class UI {
 

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 
 namespace AOC2022 {
-    public class Day14 : DayN {
+    public class Day14 : AdventOfCode.DayN {
 
         RegolithReservoir reservoir;
 

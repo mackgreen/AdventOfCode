@@ -1,0 +1,11 @@
+C:\Projects\AdventOfCode\Base\bin\Release\net6.0\Base.deps.json
+C:\Projects\AdventOfCode\Base\bin\Release\net6.0\Base.dll
+C:\Projects\AdventOfCode\Base\bin\Release\net6.0\Base.pdb
+C:\Projects\AdventOfCode\Base\obj\Release\net6.0\Base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\AdventOfCode\Base\obj\Release\net6.0\Base.AssemblyInfoInputs.cache
+C:\Projects\AdventOfCode\Base\obj\Release\net6.0\Base.AssemblyInfo.cs
+C:\Projects\AdventOfCode\Base\obj\Release\net6.0\Base.csproj.CoreCompileInputs.cache
+C:\Projects\AdventOfCode\Base\obj\Release\net6.0\Base.dll
+C:\Projects\AdventOfCode\Base\obj\Release\net6.0\refint\Base.dll
+C:\Projects\AdventOfCode\Base\obj\Release\net6.0\Base.pdb
+C:\Projects\AdventOfCode\Base\obj\Release\net6.0\ref\Base.dll
